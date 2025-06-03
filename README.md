@@ -11,19 +11,15 @@ Este é o backend da aplicação Catálogo de Carros, desenvolvido com Java Spri
 
 🌐 Integração com API: Busca de dados externos de carros através da API CarImage.
 
-🛠️ Tecnologias Utilizadas
-Java 17 — Linguagem de programação utilizada.
-
-Spring Boot — Framework para construção de aplicações web robustas em Java.
-
-Spring Web — Para construção de APIs REST.
-
-Spring Data JPA — Para persistência de dados com banco relacional (opcional).
-
-H2 Database — Banco de dados em memória (opcional, para testes locais).
-
-CORS Configuration — permitir requisições de diferentes origens.
-
+🚀 Tecnologia
+```
+Java 21: Linguagem de programação principal
+Spring Boot 3.2.1: Framework para desenvolvimento web
+MySQL: Banco de dados relacional
+Maven: Gerenciador de dependências
+JPA/Hibernate: ORM para persistência de dados
+REST: Arquitetura da API
+```
 
 
 ✅ Pré-requisitos
