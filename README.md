@@ -1,3 +1,12 @@
+<div align="center">
+
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Licença](https://img.shields.io/badge/Licença-Privada-red)
+
+</div>
+
 Este é o backend da aplicação Catálogo de Carros, desenvolvido com Java SpringBoot. Ele faz a integração com a CarImage API para obter informações e imagens de carros e permite gerenciar uma lista de carros favoritos com operações locais de CRUD (Criar, Ler, Atualizar e Deletar).
 
 ✨ Funcionalidades
