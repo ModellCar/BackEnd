@@ -52,13 +52,6 @@ Copiar
 Editar
 CAR_IMAGE_API_KEY=sua_chave_aqui
 
-4️⃣ Inicie o servidor:
-bash
-Copiar
-Editar
-npm run dev
-O backend estará rodando em:
-👉 http://localhost:3000
 
 🔗 Rotas da API
 Método	Endpoint	Descrição
