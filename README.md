@@ -62,11 +62,13 @@ O backend estará rodando em:
 
 🔗 Rotas da API
 Método	Endpoint	Descrição
+```
 GET	/cars	Lista carros obtidos da API CarImage
 GET	/favorites	Lista todos os carros favoritos
 POST	/favorites	Adiciona um carro aos favoritos
 PUT	/favorites/:id	Edita informações de um carro favorito
 DELETE	/favorites/:id	Remove um carro da lista de favoritos
+```
 
 🌐 Integração com a API CarImage
 A API CarImage é usada para obter os dados e imagens dos carros.
